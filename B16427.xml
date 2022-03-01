@@ -1,0 +1,886 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The proude wyues pater noster that wolde go gaye, and vndyd her husbonde and went her waye</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1560</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B16427</idno>
+            <idno type="STC">STC 25938</idno>
+            <idno type="STC">ESTC S111760</idno>
+            <idno type="EEBO-CITATION">99847030</idno>
+            <idno type="PROQUEST">99847030</idno>
+            <idno type="VID">12036</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B16427)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 12036)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 404:1, 1401:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The proude wyues pater noster that wolde go gaye, and vndyd her husbonde and went her waye</title>
+               </titleStmt>
+               <extent>[24] p.   </extent>
+               <publicationStmt>
+                  <publisher>In Paules Churche yearde at the sygne of the Swane by Iohn Kynge],</publisher>
+                  <pubPlace>[Imprinted at London :</pubPlace>
+                  <date>Anno Domini. M.D.LX. [1560]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Printer's name and address from colophon.</note>
+                  <note>Signatures: A-C⁴.</note>
+                  <note>Reproductions of a photostat of the original in the Henry E. Huntington Library and Art Gallery.</note>
+                  <note>Appears at reel 404 and at reel 1401 (same copy filmed twice).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Marriage --  England --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2014-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:12036:1"/>
+            <pb facs="tcp:12036:1" rendition="simple:additions"/>
+            <p> ¶ The proude wyues Pater noſter that wolde go gaye, and vn<g ref="char:EOLhyphen"/>dyd her huſbonde and went her waye.</p>
+            <figure/>
+            <p>¶ Anno Domini. M. D. L. X.</p>
+            <pb facs="tcp:12036:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <lg>
+               <pb facs="tcp:12036:2" rendition="simple:additions"/>
+               <l>ON hye feeſt dayes whan wyues go gaye</l>
+               <l>To chyrche with grete deuocyon</l>
+               <l>Theyr prayers deuoutly for to ſaye</l>
+               <l>Theyr thynkynge is on thys leſſon</l>
+               <l>Or they go forth them ſelfe to trym</l>
+               <l>Both heed and breſt on foote and hande</l>
+               <l>I ſwere to you by ſwete ſaynt ſym</l>
+               <l>The<g ref="char:cmbAbbrStroke">̄</g> ſelfe they thynke angels well to vnderſta<g ref="char:cmbAbbrStroke">̄</g>de</l>
+            </lg>
+            <lg>
+               <l>Theyr beautous be hauyour &amp; co<g ref="char:cmbAbbrStroke">̄</g>tenau<g ref="char:cmbAbbrStroke">̄</g>ce demure</l>
+               <l>They thynke full pleaſaunt for to beholde</l>
+               <l>But for to go gay ye may be ſure</l>
+               <l>They muſe full often and many folde</l>
+               <l>And how they myght beſt to paſſe brynge</l>
+               <l>Eche as gorgyous as other to go</l>
+               <l>In theyr aparell gyrdell and rynge</l>
+               <l>And other trym knackes many mo.</l>
+            </lg>
+            <lg>
+               <l>To chyrche they be come this is no lye</l>
+               <l>Vnto theyr pewe there for to knele</l>
+               <l>Reuerence doynge to the otherby</l>
+               <l>with countenau<g ref="char:cmbAbbrStroke">̄</g>ce meke and becometh the<g ref="char:cmbAbbrStroke">̄</g> wele</l>
+               <l>Than ſyt they downe eche goſſep other by</l>
+               <l>Beholdynge theyr aparell of eyther ſyde</l>
+               <l>yf the one be gaier than the other that doth eſpie</l>
+               <l>Than ſhe thynketh her felowe ſet all full of pryde</l>
+            </lg>
+            <lg>
+               <l>Yet to her deuocyon ſhe dothe her ſet</l>
+               <l>And Pater noſter ſhe doth begyn</l>
+               <l>But to gay gere her hert doth fret</l>
+               <l>And thynketh how ſhe may ſuch gay gere wyn<g ref="char:punc">▪</g>
+               </l>
+               <pb facs="tcp:12036:3" rendition="simple:additions"/>
+               <l> Sayenge to her ſelfe what fortune haue I</l>
+               <l>That my felow ſo gorgyous is in her gere</l>
+               <l>And I ſyte here ſo poorely her by</l>
+               <l>But it ſhalbe amended by god I ſwere</l>
+            </lg>
+            <lg>
+               <l>¶ Qui es in celis, and that within ſhorte whyle</l>
+               <l>Or elles my huſbande full ſore it ſhall repent</l>
+               <l>For I can nought gete of him by fete nor wyle</l>
+               <l>But all ſhall be myne now that I in ha<g ref="char:cmbAbbrStroke">̄</g>de ca<g ref="char:cmbAbbrStroke">̄</g> hent</l>
+               <l>From him alway whatſoeuer betyde</l>
+               <l>Tyll I be arayde as other women be</l>
+               <l>I wolde not haue ought for no maner pryde</l>
+               <l>But only bycauſe it is a good ſyght to ſe</l>
+            </lg>
+            <lg>
+               <l>¶ Sanctificetur nomen tuum</l>
+               <l>Lorde halowed be thy name</l>
+               <l>yf to ſuch gere I may come</l>
+               <l>Than ſhall I bere bothe porte and fame</l>
+               <l>As other women in euery where</l>
+               <l>Do alwaye where as they do wende</l>
+               <l>Go feete and freſſhe and trymme in theyr gere</l>
+               <l>In the beſt maner as them doth to pretende</l>
+            </lg>
+            <lg>
+               <l>¶ Adueniat regnu<g ref="char:cmbAbbrStroke">̄</g> tuu<g ref="char:cmbAbbrStroke">̄</g>, thy kingdom come to vs</l>
+               <l>After this lyfe whan we hens ſhall wende</l>
+               <l>But whyle we be here now ſwete Ieſus</l>
+               <l>As other woman haue ſuche grace in me ſende</l>
+               <l>That I may haue lorde my heed into wrap</l>
+               <l>After the guyſe kercheſes that be fyne</l>
+               <l>And theron to ſette ſome luſty trymme cap</l>
+               <l>with ſmockes wel wrought ſoude w<hi rend="sup">t</hi> ſylke<g ref="char:cmbAbbrStroke">̄</g> twyne</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:12036:3" rendition="simple:additions"/>
+               <l>¶ Fiat voluntas tua, thy wyll fulfylled be</l>
+               <l>Lorde god alway as thys tyme dothe requyre</l>
+               <l>And as my goſſep that ſytteth here by me</l>
+               <l>So let me be trymmed nought elles I deſyre</l>
+               <l>Therfore yf it may be in any wyſe</l>
+               <l>For thou haſt power therof to do thy wyll</l>
+               <l>To make me go gay after the beſt guyſe</l>
+               <l>For reaſon it is with ryght good ſhyll</l>
+            </lg>
+            <lg>
+               <l>¶ Sicut in celo et in terra, in heuen as in erthe</l>
+               <l>It is alway ſene, go we neuer ſo ferre</l>
+               <l>That women aboue all the beaute bereth</l>
+               <l>And without gay gere our beaute we marre</l>
+               <l>Therfore good lorde let thys be a mended</l>
+               <l>And gay gere to were that I may haue</l>
+               <l>Or elles my lyfe wyll haue an ende</l>
+               <l>For very pure thought, nought can me ſaue</l>
+            </lg>
+            <lg>
+               <l>¶ Panem noſtrum cotidianum</l>
+               <l>Our dayly brede lorde wyll alſo do wel</l>
+               <l>But of dyuers cornes I haue many a come</l>
+               <l>At home in my barne for to ſell</l>
+               <l>But ther with lorde I dare not mell</l>
+               <l>For feare of my huſbande that kepeth me ſo hard</l>
+               <l>A buſſhell therof I dare not ſell</l>
+               <l>For yf he wyſte the game ware marde</l>
+            </lg>
+            <lg>
+               <l>¶ Da nobis hodye, gyue vs thys daye</l>
+               <l>And ſpecially me my lorde that am heuy at hert</l>
+               <l>Tyll I haue my wyll lorde a parte I ſaye</l>
+               <l>Of my deſyre lorde, or elles I muſt lyue in ſmarte</l>
+               <pb facs="tcp:12036:4" rendition="simple:additions"/>
+               <l> With that full maruaylouſſy can ſhe ſyght</l>
+               <l>And in a ſwone halfe gan ſhe fall</l>
+               <l>Her felowe beholdynge that wofull wyght</l>
+               <l>And wondred full ſore than here with all</l>
+            </lg>
+            <lg>
+               <l>¶ Et dimitte nobis debita noſtra, now</l>
+               <l>Mercy good lorde and forgyuenes what is thys</l>
+               <l>I was neuer thys a frayde I make god a vow</l>
+               <l>Good lorde ſayd ſhe than what meaneth thys</l>
+               <l>And her lyttell fynger than wronge ſhe faſt</l>
+               <l>Her to reuyue and gaue her ſwete ſpyce</l>
+               <l>So ſhe vp ſterte than at the laſte</l>
+               <l>Lyke a trym goſſyp that fayne wolde be nyce</l>
+            </lg>
+            <lg>
+               <l>¶ Sicut et nos dimittimus debytoribus noſtris</l>
+               <l>As we do forgyue lorde ſo let vs be forgyuen</l>
+               <l>And than to her ſhe dyd ſaye without mys</l>
+               <l>ye had a ſhrode fyt by ſwete ſaynt ſteuen</l>
+               <l>Goſſyp myn, how is it wyth you nowe</l>
+               <l>what is your grefe, now I you pray</l>
+               <l>yf I can eaſe you by god anowe</l>
+               <l>I wyll be redy both nyght and daye</l>
+            </lg>
+            <lg>
+               <l>¶ Et ne nos in ducas in temptacionem</l>
+               <l>Let vs fall into no temptacyon now</l>
+               <l>with that, the other reuyued then</l>
+               <l>Ryght ſore dyſmayde ye me trow</l>
+               <l>And to eche other they gan ſay</l>
+               <l>Why be ye thus ſad my goſſep dere</l>
+               <l>Tell me the cauſe, now I you praye</l>
+               <l>For yf it lay in me now I wil amende your chere</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:12036:4" rendition="simple:additions"/>
+               <l>¶ Sed lybera nos a malo, delyuer vs from all yll</l>
+               <l>Raggis and iaggis this wyfe gan to reherſe</l>
+               <l>yf I may not go gay I ſhall my ſelfe ſpyll</l>
+               <l>I pray you goſſep dere, vnderſta<g ref="char:cmbAbbrStroke">̄</g>d well this verſe</l>
+               <l>My huſbonde is harde to me bothe day &amp; nyght</l>
+               <l>And doth me not regarde but let me go eue<g ref="char:cmbAbbrStroke">̄</g> thus</l>
+               <l>Not as other do but as a wretched wyght</l>
+               <l>But yet it ſhalbe me<g ref="char:cmbAbbrStroke">̄</g>ded I hope by ſwete Ieſus</l>
+            </lg>
+            <lg>
+               <l>¶ Amen, ſayd the other I pray god it be ſo</l>
+               <l>For ye haue good ynought this I do know well</l>
+               <l>Of good marchaundiſe ſo mote I the</l>
+               <l>As any is here in this countre to ſell</l>
+               <l>For his degre but he is a frayde</l>
+               <l>That he ſholde paſſe his ſtate or loke on hawt</l>
+               <l>Than behynde your backes it ſhulde be ſayd</l>
+               <l>yf he fore amys, that it were all your fawt</l>
+            </lg>
+            <lg>
+               <l>But co<g ref="char:cmbAbbrStroke">̄</g>petenly take the thyrde peny of his gayne</l>
+               <l>And bye therwith both kyrtell and gowne</l>
+               <l>Than yet ſhall ye leaue hym alway twayne</l>
+               <l>So do we moſt parte throughout the towe</l>
+               <l>Or elles we ſhold neuer haue halfe our gayes</l>
+               <l>That we haue ywys ye may be ſure</l>
+               <l>But properly thus we fynde the wayes</l>
+               <l>with ringes and beedes to go full demure</l>
+            </lg>
+            <lg>
+               <l>Rybandes of ſylke that be full longe and large</l>
+               <l>with tryangles trymly made poynt deuyſe</l>
+               <l>For ſome folke it were full grete charge</l>
+               <l>Therfore all thynge by meſure by myn aduyſe</l>
+               <pb facs="tcp:12036:5" rendition="simple:additions"/>
+               <l> But as for you ye may be bolde</l>
+               <l>To do ſom what more than other maye</l>
+               <l>yet it wold make your huſbondes herte full colde</l>
+               <l>If he ſo harde be and wretched as ye ſaye</l>
+            </lg>
+            <lg>
+               <l>That he may not ſe you go as other do</l>
+               <l>And haue it ſo well as he hath in ſtore</l>
+               <l>I wolde haue my ſyne hooſe and eke my trym ſho</l>
+               <l>with other knackes many a ſcore</l>
+               <l>yf I were as you be, I fayth I ſwere</l>
+               <l>Somwhat ſholde be ſolde y<hi rend="sup">•</hi> he ſhold not knowe</l>
+               <l>ye haue to ſell ſo dyuers gere</l>
+               <l>He can not know all by god I trowe</l>
+            </lg>
+            <lg>
+               <l>¶ Yet may I reioyce alway ywys</l>
+               <l>For my huſbonde is glad whan I go trym</l>
+               <l>He wolde thynke I dyd full ſore a mys</l>
+               <l>yf I wente not freſſhe by ſwete ſaynt ſym</l>
+               <l>He doth reioyce in my gay gere</l>
+               <l>whan he do ſe me put it on</l>
+               <l>And wolde I ſhulde it often were</l>
+               <l>For I ſhall haue newe whan myn is done</l>
+            </lg>
+            <lg>
+               <l>O good lorde, happy be ye</l>
+               <l>That haue ſo good a huſbonde by god in throne</l>
+               <l>Among a hundreth ye ſhall not fynde thre</l>
+               <l>Of all our neyghbours that hath ſuch a one</l>
+               <l>yf god wolde that myne were as your is</l>
+               <l>I wolde be as mery as byrde on brere</l>
+               <l>But hys herte is ſo ſet on couetyſe ywys</l>
+               <l>That he can neuer be of good chere</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:12036:5" rendition="simple:additions"/>
+               <l>And than cauſeth me often for to wepe</l>
+               <l>whan I thynke on hys vnkyndenes ſo grete</l>
+               <l>I can not ete nor drynke nor ſtepe</l>
+               <l>For grete heuynes my herte dothe bete</l>
+               <l>But throught your counſayle my goſſep dere</l>
+               <l>I hoppe the better for to ſpede</l>
+               <l>And for to go gayer another yere</l>
+               <l>with myrth and ioye my lyfe to lede</l>
+            </lg>
+            <lg>
+               <l>That I may be accepted with euery man</l>
+               <l>Whiche me beholdeth bothe ferre and nere</l>
+               <l>Without your helps no rede I can</l>
+               <l>But by your good counſayle amende is my chere</l>
+               <l>Thys hole in you my hope I ſete</l>
+               <l>And without you I am but dede</l>
+               <l>Luſty freſſhe gere how I may gete</l>
+               <l>And to go trym in luſty were</l>
+            </lg>
+            <lg>
+               <l>¶ Well goſſep than do after me</l>
+               <l>And ye ſhall neuer repente ywys</l>
+               <l>I ſwere to you by Mary ſo fre</l>
+               <l>All ſhalbe well; that nowe is amys</l>
+               <l>beware of one thinge, your to<g ref="char:cmbAbbrStroke">̄</g>gue go not to large</l>
+               <l>And forbere your huſbonde whan he is grame</l>
+               <l>Speke neuer to hym of ſuch charge</l>
+               <l>with euyll mode, for that were ſhame</l>
+            </lg>
+            <lg>
+               <l>Yf ye of hym wyll ſuche thynge haue</l>
+               <l>As ye deſyre for to go gay</l>
+               <l>with louynge countenaunce ye muſt it craue</l>
+               <l>And with fayre wordes to hym ſay</l>
+               <pb facs="tcp:12036:6" rendition="simple:additions"/>
+               <l> My huſbonde dere I you requyre</l>
+               <l>Take no diſpleaſure with my worde</l>
+               <l>What ſoeuer of you I do deſyre</l>
+               <l>But this muſt be done in bed or at borde</l>
+            </lg>
+            <lg>
+               <l>¶ My louely huſbonde my ſpouſe moſt dere</l>
+               <l>To you I muſt nedes talke my mone</l>
+               <l>As reaſon requyreth ye he my fere</l>
+               <l>And no body elles but you alone</l>
+               <l>Thus I muſt deſyre you with all my herte</l>
+               <l>Take no dyſpleaſure what euer I ſaye</l>
+               <l>For yf ye do, it wyll me ſmarte</l>
+               <l>And for thought I ſhall dye this is no nay</l>
+            </lg>
+            <lg>
+               <l>Whan he this hereh than he wyll muſe</l>
+               <l>And meruell what your requeſt wyll be</l>
+               <l>Yf he be gentyll he wyll not refuſe</l>
+               <l>No reaſonable thynge I hope perde</l>
+               <l>ye ſhall than ſay, ye lacke that or this</l>
+               <l>And begyn with that thynge y<hi rend="sup">t</hi> ye haue moſt nede</l>
+               <l>I dare ſay than withouten mys</l>
+               <l>The ſooner of hym than ye ſhall ſpede</l>
+            </lg>
+            <lg>
+               <l>With ſmall tryfels ye muſt begyn</l>
+               <l>Of hym to get gay gere in ſtore</l>
+               <l>Or elles of hym ye ſhall nought wym</l>
+               <l>And thus may ye dayly encreaſe more and more</l>
+               <l>Of gorgyous gere grete plence to haue</l>
+               <l>And all with his good wyll for that is beſt</l>
+               <l>yf ye it ſo get ſo god me ſaue</l>
+               <l>Than may ye were it with peas and reſt</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:12036:6" rendition="simple:additions"/>
+               <l>¶ Yf he do not gyue you than good comforte</l>
+               <l>Speke ye no more but than be ſtyll</l>
+               <l>But ſtreyght to his wares reſorte</l>
+               <l>And therof take ye what ye wyll</l>
+               <l>yf he play the chorle playe ye the ſame</l>
+               <l>And let hym not know no more of your mynde</l>
+               <l>God gyue all chorles mekyll ſhame</l>
+               <l>That to theyr wyues be vnkynde.</l>
+            </lg>
+            <lg>
+               <l>¶ yf he be gentyll take noughe hym fro</l>
+               <l>Ly tell nor moch whatſoeuer betyde</l>
+               <l>For yf ye do it wyll tourne you to wo</l>
+               <l>Than folke wyll ſay that it cometh of pride</l>
+               <l>Se what debate this folke haue nowe</l>
+               <l>And all bycauſe the wyfe wolde go gay</l>
+               <l>I ſwere to you by god auowe</l>
+               <l>ye were better byde ſtyll in your olde aray<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+            </lg>
+            <lg>
+               <l>¶ Therfore beware be not ratſhe</l>
+               <l>To do or ſaye that ſhulde hym dyſpleaſe</l>
+               <l>But yf he be churlyſſhe gyue hym a daſſhe</l>
+               <l>Thoughe euer after it ſhulde hym dyſeaſe</l>
+               <l>Amonge his wares ſpare not at all</l>
+               <l>For halfe is yours as well as his</l>
+               <l>Therfore as nowe counſeyll I ſhall</l>
+               <l>Gyue vnto you by heuyns blyſſe</l>
+            </lg>
+            <lg>
+               <l>To do euen ſo and be not a frayde</l>
+               <l>For lefe nor loche why chulde ye not</l>
+               <l>The faute wyll all to hym be layde</l>
+               <l>Of any one that hereth that</l>
+               <pb facs="tcp:12036:7" rendition="simple:additions"/>
+               <l> That he ſo chorlyſhe to you is ay</l>
+               <l>And wyll not be frendly as other be</l>
+               <l>Grete ſhame of him than wyll they ſay</l>
+               <l>So to be ſerued well worthy is he</l>
+            </lg>
+            <lg>
+               <l>And worſe be god withouten fable</l>
+               <l>yf worſe may be by any meane</l>
+               <l>Conſydrynge that he is not vnable</l>
+               <l>It ought on you for to be ſene</l>
+               <l>Somwhat better for very pure ſhame</l>
+               <l>Than it is now by reaſon and ryght</l>
+               <l>For he is worthy to haue the blame</l>
+               <l>yf he wyll be ſuche a wretched wyght</l>
+            </lg>
+            <lg>
+               <l>He can not haue to moch diſpleaſure</l>
+               <l>That hath a yonge wyfe and wyll not her trym</l>
+               <l>I wyſſhe them care and ſorow out of meaſure</l>
+               <l>And ſpecially them that be lyke vnto hym</l>
+               <l>Myrrours of myſchefe we may them call</l>
+               <l>That kepe theyr wyues ſo bare and poore</l>
+               <l>To many one it dothe befall</l>
+               <l>Thrugh ſuch menes to make a good wyfe a hore</l>
+            </lg>
+            <lg>
+               <l>An hore? ye may it ſwere by god aboue</l>
+               <l>They may be wretches that ſo do</l>
+               <l>Which cauſeth theyr wyues to choſe new loue</l>
+               <l>Thought it ſholde tourne them to great wo</l>
+               <l>So vylaynus they be in euery where</l>
+               <l>Vnto theyr wyues in euery houre and tyde</l>
+               <l>yf theyr wyues do go, ought trym in they, gere</l>
+               <l>They ſay they do it than for gret pryd</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:12036:7" rendition="simple:additions"/>
+               <l>And all this is but ialouſy god wote</l>
+               <l>That thys doth cauſe I know it well</l>
+               <l>Hangeth be ſuch huſbondes by the throte</l>
+               <l>Or elles the deuyll cary thew away to hel</l>
+               <l>That ialous be eyther erly or late</l>
+               <l>Vpon theyr good wyues that be ſo meke</l>
+               <l>God ſe<g ref="char:cmbAbbrStroke">̄</g>de the<g ref="char:cmbAbbrStroke">̄</g> ſtryfe and euer debate</l>
+               <l>And a bengeau<g ref="char:cmbAbbrStroke">̄</g>ce vpon them both day and weke</l>
+            </lg>
+            <lg>
+               <l>As for my huſbonde I nede not to craue</l>
+               <l>But fyſtes and ſtaues yf I wyll optayne</l>
+               <l>ynoughe of them I may ſoone haue</l>
+               <l>Thus dare I not ſpeake for feare of payne</l>
+               <l>For no ſuch thynges but I knowe another</l>
+               <l>I ſhall from hym ſtele both day and nyght</l>
+               <l>I ſwere to you by goddes dere mother</l>
+               <l>His bagges I hope to make full lyght</l>
+            </lg>
+            <lg>
+               <l>yf he may not ſe me than go gay</l>
+               <l>I thynke not longe to tary here</l>
+               <l>But pryuele togather what I may</l>
+               <l>And choſe me than another fere</l>
+               <l>For I can not lyue this in wretchednes</l>
+               <l>I wyll leue hym bare y now</l>
+               <l>It is to me great heuynes</l>
+               <l>To lede this lyfe I make god auowe</l>
+            </lg>
+            <lg>
+               <l>With that all ſeruyce in the chyrch was done</l>
+               <l>Theſe wyues homewarde dyd take the waye</l>
+               <l>For ſaſt it drewe than towarde none</l>
+               <l>And ſo they departed and adewe gan ſay</l>
+               <pb facs="tcp:12036:8" rendition="simple:additions"/>
+               <l> whan ſhe came home thys ſory wyfe</l>
+               <l>Her huſbonde full mery there dyd ſhe fynde</l>
+               <l>She coulde no lenger abyde for her lyfe</l>
+               <l>But nedes vnto hym ſhe muſt breke her mynde</l>
+            </lg>
+            <lg>
+               <l>To proue whether he wolde be to her kynde</l>
+               <l>She gan him flatter after the newe guyſe</l>
+               <l>And ſoone her hert ſhe gan vnbynde</l>
+               <l>Sayenge to hym that in this wyſe</l>
+               <l>My ſpouſe mooſt worthy, my huſbonde dere</l>
+               <l>I pray you take it for no grefe</l>
+               <l>whatſoeuer of you I do deſyre</l>
+               <l>But gyue my herte now ſome relefe</l>
+               <l>As I hope ye wyll, and therto be glad</l>
+               <l>And ſay me not nay whatſoeuer befall</l>
+               <l>And than for euer I muſt be ſad</l>
+               <l>Thus in your hande it doth lay all</l>
+            </lg>
+            <lg>
+               <l>My truſte is hole in you ſet</l>
+               <l>So many wyues in thys paryſſhe de</l>
+               <l>That go full luſtly and trym ſet</l>
+               <l>A pleaſure for theyr huſdondes it is to ſe</l>
+               <l>And now me thynke ye be well moued</l>
+               <l>wherfore the bolder I to you ſpeke</l>
+               <l>As to myne herte mooſt beſt beloued</l>
+               <l>Or elles a ſonder myne herte wolde breke</l>
+            </lg>
+            <lg>
+               <l>Deſyrynge you with mynde and wyll</l>
+               <l>To gyue me now ſome goodly gay gere</l>
+               <l>Some ſuſty newes my backe to hyll</l>
+               <l>with gyrdelles and rynge for your loue to were</l>
+               <pb facs="tcp:12036:8" rendition="simple:additions"/>
+               <l> As other women do for theyr huſbondes loue</l>
+               <l>So let me do for yours I pray</l>
+               <l>Than wyll ye bynde me my ſelfe to moue</l>
+               <l>Grete good of you alway to faye</l>
+            </lg>
+            <lg>
+               <l>¶ I am not able to performe your wyll</l>
+               <l>In gyuynge to you that I not haue</l>
+               <l>It is neyther reaſon nor yet good ſkyll</l>
+               <l>Suche thynges of me now for to craue</l>
+               <l>ye ſe your ſelfe that I do ſpare</l>
+               <l>And with ſymple clothes that I do go</l>
+               <l>Honeſty wolde ye ſholde helpe me care</l>
+               <l>And lyke in parell that we ſholde go</l>
+            </lg>
+            <lg>
+               <l>Let vs lyue as we haue done ere</l>
+               <l>And paſſe not our bow<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s in no degre</l>
+               <l>To put our ſelfe in great daungere</l>
+               <l>For your ſmall pleaſure it were great pite</l>
+               <l>How tometh now ſuch thynges in your mynde</l>
+               <l>That ye deſyre me to do ſuch coſt</l>
+               <l>ye ſpende your labour and wynde</l>
+               <l>And all your wordes be but loſt</l>
+            </lg>
+            <lg>
+               <l>A lacke good wyfe were thys your wyll</l>
+               <l>For to go gay aboue your eſtate</l>
+               <l>And wolde be glad to fulfyll</l>
+               <l>All your deſyre yf it were not to late</l>
+               <l>But I am ferre behynde the hande</l>
+               <l>As now dere wyfe more than I ſay</l>
+               <l>An hundred pounde ye ſhall vnderſtande</l>
+               <l>with in this moneth I muſt nedes pay</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:12036:9" rendition="simple:additions"/>
+               <l>¶ Towarde the ſame wyfe I ne haue</l>
+               <l>Twenty pounde in ſyluer nor golde</l>
+               <l>which doth make ſo god me ſaue</l>
+               <l>whan I theron thynke myn herte full colde</l>
+               <l>Therfore good wyfe take therof no grefe</l>
+               <l>For I am not able as the tyme requyre</l>
+               <l>Excepte I ſholde therof be a thefe</l>
+               <l>And that I thynke ye wyll not deſyre</l>
+            </lg>
+            <lg>
+               <l>For that were a ſhame I tell you playne</l>
+               <l>As well for you as it for me</l>
+               <l>With ſhame for my treſpas I ſhode be ſlayne</l>
+               <l>And hanged full hye vpon a tre</l>
+               <l>Than men wolde ſay there hangeth a thefe</l>
+               <l>Which wolde than full ſore greue your herte</l>
+               <l>It is no nede for to a<gap reason="illegible" resp="#MURP" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>.</l>
+               <l>A ſhamfull name that wolde vs cauſe to ſmarte</l>
+            </lg>
+            <lg>
+               <l>¶ Thus anſwere ſhe had this good wyfe</l>
+               <l>That her herte ſonne into her hoſe</l>
+               <l>And wery ſhe was ryght ſore of her lyfe</l>
+               <l>But with her buſbonde ſhe dyd no more gloſe</l>
+               <l>Sodeynly ſhe ſet her handes on her ſyde</l>
+               <l>And ſayd than caytyfe god gyue the wo</l>
+               <l>I tell the playne it is for no pryde</l>
+               <l>But onely with other wyfes for to go</l>
+            </lg>
+            <lg>
+               <l>That was mynentent and nothynge elles</l>
+               <l>But ſeynge it wyll no otherwyſe be</l>
+               <l>I ſhall make the a hode and ſet it full of belles</l>
+               <l>which ſhalbe marked in all this countre</l>
+               <pb facs="tcp:12036:9" rendition="simple:additions"/>
+               <l> Though euery man knew it I ſet not a flye</l>
+               <l>And what I do, now I ne care</l>
+               <l>Within ſhorte whyle thou ſhalte well ſpye</l>
+               <l>That I ſhall make thy bagges full bare</l>
+            </lg>
+            <lg>
+               <l>¶ With that from the borde thys wyfe gan go</l>
+               <l>And bad hym beware of her euyll wyll</l>
+               <l>She ſayd for euer ſhe wolde be his fo</l>
+               <l>And do her beſt hym for to ſpyll</l>
+               <l>Therto ſhe wolde laboure bothe day and nyght</l>
+               <l>With all the helpe that ſhe coude make</l>
+               <l>And that ſhe coude get with mayne and myght</l>
+               <l>Another ſholde ſpende it for his ſake</l>
+            </lg>
+            <lg>
+               <l>¶ The man was wroth here with ywys</l>
+               <l>And wandred full ſore what his wyfe ayled</l>
+               <l>He toke vp hys hande and hym dyd blys</l>
+               <l>wenynge to hym that her wyttes had fayled</l>
+               <l>But it was not ſo on myſchefe ſhe was ſet</l>
+               <l>The deuyll hym ſelfe coude not her tourne</l>
+               <l>Though he with ſtaues her ſholde haue bet</l>
+               <l>which made full ſore his hert to mourne</l>
+            </lg>
+            <lg>
+               <l>¶ Than was he bewayled all in wo</l>
+               <l>Ryght pyteouſly he dyd complayne</l>
+               <l>Thynkynge alway what hys wyfe myght do</l>
+               <l>Hym thought for ſorow his herte was ſlayne</l>
+               <l>Bycauſe hys wyfe was ſet on rage</l>
+               <l>what beſt was to do he hym be thought</l>
+               <l>Her furyous anger to a ſwage</l>
+               <l>Her mynde he perceyued was ſet to nought</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:12036:10" rendition="simple:additions"/>
+               <l>¶ Fayne he wolde her let, this good honeſt man</l>
+               <l>And hepe her in goodnes as he had done ere</l>
+               <l>Alas he ſayd no rede I can</l>
+               <l>Of myne vndoynge I ſtande in feare</l>
+               <l>That ſhe wyll me robbe by day and nyght</l>
+               <l>Than fare well my ioye and my ſolas</l>
+               <l>Many a man hath wronge and moch vnright</l>
+               <l>Thrugh theyr falſe wyues, alas, alas</l>
+            </lg>
+            <lg>
+               <l>¶ And ſo am I lyke me doth thynke</l>
+               <l>For ſuch one is able a man to marre</l>
+               <l>For thought I can neyther ete nor drynke</l>
+               <l>So ſore is my hert ſet now in care</l>
+               <l>Yet wyll I not my ſelfe caſte awaye</l>
+               <l>Thought ſhe wyll be lewde and alſo bad</l>
+               <l>With coſtly garmentes I wyll not ray</l>
+               <l>For my deſtruction to make her glad</l>
+            </lg>
+            <lg>
+               <l>¶ I thynke ſhe hath founde ſome vilaine knawe</l>
+               <l>That wyll helpe her to cary away my ſtore</l>
+               <l>Yet I truſte that god wyll me ſaue</l>
+               <l>And preſerue me from her daunger for euer more</l>
+               <l>For a curſed wyfe is worſe than a fende</l>
+               <l>Yf I me bleſſe he can me not dere</l>
+               <l>But this curſed wyfe where euer I wende</l>
+               <l>Putteth me in doubte and great fere</l>
+            </lg>
+            <lg>
+               <l>Wherfore I dare not go out of the dore</l>
+               <l>Leſt ſhe me begyle and go her waye</l>
+               <l>with ſome lewde knaue to play the hore</l>
+               <l>And me vnto for euer and aye</l>
+               <pb facs="tcp:12036:10" rendition="simple:additions"/>
+               <l> Yet to my curate I wyll hye</l>
+               <l>And ſhewe hym of my grefe what I do ayle</l>
+               <l>To knowe yf he remedy</l>
+               <l>Me of my wo or ought me auayle</l>
+            </lg>
+            <lg>
+               <l>¶ In this meane whyle hys wyfe was gone</l>
+               <l>Vnto her goſſep to ſhewe her grefe</l>
+               <l>The good man founde hym ſelfe alone</l>
+               <l>Withouten comforte or relefe</l>
+               <l>Than ſtreyght to the chyrche he gan hym dreſſe</l>
+               <l>Vnto the curate which he there founde</l>
+               <l>All redy reueſt goynge to meſſe</l>
+               <l>And towarde the aulter he was bounde</l>
+            </lg>
+            <lg>
+               <l>¶ This man abode tyll maſſe was done</l>
+               <l>For to take counſayle of hys curate dere</l>
+               <l>Whan he hym met ryght ſoone anone</l>
+               <l>He made his mone with heuy chere</l>
+               <l>After all gretynges to hym thus he ſayd</l>
+               <l>Syr I you requyre of counſayle nowe</l>
+               <l>My wyfe doth make me ſo ſore dyſmayde</l>
+               <l>That I am lyke to dye I make god auowe</l>
+            </lg>
+            <lg>
+               <l>¶ With ſhorte concluſyon his mater he tolde</l>
+               <l>How it began and how it befell</l>
+               <l>Twene hym and his wyfe y<hi rend="sup">t</hi> made his herte colde</l>
+               <l>But euer the preeſt bad hym do well</l>
+               <l>And god ſholde helpe hym euer at his nede</l>
+               <l>yf he dyd truſt vnto his grace</l>
+               <l>Alway the better ſholde he ſpede</l>
+               <l>And heuen at the laſt he ſholde purchaſe</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:12036:11" rendition="simple:additions"/>
+               <l>Yf ſhe wyll be nought and not amende</l>
+               <l>And thou entende euer well to do</l>
+               <l>Good grace god ſhall vnto the ſende</l>
+               <l>whan ſhe ſhall lyue in care and wo</l>
+               <l>Go thy way home and take no thought</l>
+               <l>But euer take hede what ſo befall</l>
+               <l>For ſuch one as doth ſet her to nought</l>
+               <l>To vndo a man ſhe careth not at all</l>
+            </lg>
+            <lg>
+               <l>This man dyd after the curates rede</l>
+               <l>And home full ſoone he dyd hym haſt</l>
+               <l>But whan he came there his herte dyd blede</l>
+               <l>He ſpyed that his labour was all in waſt</l>
+               <l>And that his wyfe had ben there before</l>
+               <l>And ſpoyled all that ſhe myght cary</l>
+               <l>Of ſhorte endes and money that he had in ſtore</l>
+               <l>No legger with him that ſhe wolde vary</l>
+            </lg>
+            <lg>
+               <l>Thus was the good man vndone for euer</l>
+               <l>God gyue all ſuch wyues care</l>
+               <l>For after that day he ſaw her neuer</l>
+               <l>But of his welth ſhe made hym bare</l>
+               <l>Now Ieſu that is heuen kynge</l>
+               <l>Grau<g ref="char:cmbAbbrStroke">̄</g>te all good wyues that fayne wolde do well</l>
+               <l>The ioyes of heuen at theyr endynge</l>
+               <l>And to be preſerued fro the paynes of hell</l>
+            </lg>
+            <lg>
+               <l>Such Pater noſter ſome wyues do ſay</l>
+               <l>Another were better for theyr ſoule helth</l>
+               <l>As here doth felow ſo ſholde ye pray</l>
+               <l>And than ye ſholde euer lyue in welth</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:12036:11" rendition="simple:additions"/>
+            <head>¶ Here after foloweth the golden Pater noſter of deuo<g ref="char:EOLhyphen"/>cyon.</head>
+            <lg>
+               <l>THe father of heuen omnipotent</l>
+               <l>Of nought all this worlde dyd create</l>
+               <l>In paradyſe he made Adam a pure innocent</l>
+               <l>And for his comforte Eue to hym was aſſacyate</l>
+               <l>The ſerpent by fraude made them obſtynate</l>
+               <l>Wherby they loſte their manſyon ioye and blyſſe</l>
+               <l>Tyll by thy mercy they were regenerate</l>
+               <l>Pater noſter quies in celis</l>
+            </lg>
+            <lg>
+               <l>¶ O bleſſed lorde of thy grete bou<g ref="char:cmbAbbrStroke">̄</g>tye &amp; goodneſſe</l>
+               <l>That ſent thyne owne ſonne to be incarnate</l>
+               <l>The orygynall ſynne of Adam to redreſſe</l>
+               <l>By vertue of deth of Chryſt immaculate</l>
+               <l>Which is our brother by proue cartyfycate</l>
+               <l>And thou our-father throughout chryſtendome</l>
+               <l>wherfore let vs merely without debate</l>
+               <l>Synge, Sanctificetur nomen tuum</l>
+            </lg>
+            <lg>
+               <l>¶ Chryſt Ieſu our kynge and his mother dere</l>
+               <l>Be in our nede our ſocour and comforte</l>
+               <l>Oure ſoules from ſynne to preſerue clere</l>
+               <l>That the flame of charyte in vs reporte</l>
+               <l>To whom that we may reſorte</l>
+               <l>with blyſful armony bothe all and ſumme</l>
+               <l>Swete Ieſus for vs exhorte</l>
+               <l>That vnto vs, Adueniat regnum tuum</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:12036:12" rendition="simple:additions"/>
+               <l>¶ Infuſe vs with grace lorde in contynaunce</l>
+               <l>In euery malady, pouerty and tribulacyon</l>
+               <l>Perfite pacyence to kepe thy perſeueraunce</l>
+               <l>For any wrongfull trouble or vexacyon</l>
+               <l>That we without grudge or exclamacyon</l>
+               <l>Say and pray, Fiat voluntas tuas</l>
+               <l>Hygh and low thy myght operacyon</l>
+               <l>So be it, ſicut in celo et in terra</l>
+            </lg>
+            <lg>
+               <l>¶ Vpon ſhere thurſday thy dyſcyples thou fedde</l>
+               <l>In fourme of brede wyth thyne owne deite</l>
+               <l>By vertue of the wordes of thy godhed</l>
+               <l>Bade them thyne owne body accipite</l>
+               <l>And eate, which for you berrayed ſhalbe</l>
+               <l>A preſeruat yf agaynſt deth mooſt holſome</l>
+               <l>Our peticyon good lorde, da nobis hodye</l>
+               <l>That ſame, panem noſtrum cotidianum</l>
+            </lg>
+            <lg>
+               <l>¶ Whan mortall ſinne had vs deuoured</l>
+               <l>And haue forgoten thy holy conuerſacyon</l>
+               <l>yet let vs not vtterly be confounded</l>
+               <l>whom thou demyd by thy byter paſſion</l>
+               <l>But waſſhe vs with penaunce by full contrycyo<g ref="char:cmbAbbrStroke">̄</g>
+               </l>
+               <l>Thou one and thre trinitas ſancta</l>
+               <l>whan we requyre the by proclamacyon</l>
+               <l>Et dimitte nobis debita noſtra.</l>
+            </lg>
+            <lg>
+               <l>yf any creature hath vs offended</l>
+               <l>And treſpaſſet forgyue we all thoſe</l>
+               <l>That theyr offence may be ame<g ref="char:cmbAbbrStroke">̄</g>ded</l>
+               <l>Our mercy and pyte to them dyſcloſe</l>
+               <pb facs="tcp:12036:12" rendition="simple:additions"/>
+               <l> That whan to god our paſſage purpoſe</l>
+               <l>That of his mercy habounde y<hi rend="sup">t</hi> we may not mys</l>
+               <l>Forgyue vs good lorde, ſicut et nos</l>
+               <l>Dimittimus debitoribus noſtris</l>
+            </lg>
+            <lg>
+               <l>Another peticion we aſke our father</l>
+               <l>That we be not ouercome by temptacion</l>
+               <l>But we to Chryſt our owne broder</l>
+               <l>Call for ayde and obtayne remiſſyon</l>
+               <l>And of our ſynnes clene to haue abſolucyon</l>
+               <l>By meryte of the brygpt ſterre of Betheleem</l>
+               <l>To whom we pray with humble deuocyon</l>
+               <l>Et ne nos inducas in temptacionem</l>
+            </lg>
+            <lg>
+               <l>¶ The father, the ſonne, and the holy ghoſt</l>
+               <l>Thre perſones vndeuyded, and one in eſſence</l>
+               <l>Make in vs trynyte by thy power mooſt</l>
+               <l>Thy body, thy ſoule, thy godhed in preſence</l>
+               <l>So conſerue vs here in thy abſence</l>
+               <l>To vſe well fyue and obſerue tenne</l>
+               <l>That deedly ſynne combre not our conſcyence</l>
+               <l>Sed libera nos a malo. Amen</l>
+            </lg>
+            <trailer>¶ Finis.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <g ref="char:leaf">❧</g> Imprinted at London, in Paules Churche yearde at the Sygne of the Swane by Iohn Kynge.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
